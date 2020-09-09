@@ -24,7 +24,7 @@ body {
     background: url(/assets/images/login_title.png) no-repeat center;
 }
 
-.form_login {
+.layui-form {
     padding: 0 30px;
 }
 
@@ -43,9 +43,14 @@ body {
     padding-left: 35px;
 }
 
+.layui-btn {
+    width: 100%;
+    background-color: #1E9FFF;
+}
+
 .xx {
     position: relative;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .form-a {
